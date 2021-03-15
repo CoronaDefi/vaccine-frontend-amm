@@ -1,0 +1,16 @@
+{
+  "short_name": "VaccineSwap.Finance",
+  "name": "VaccineSwap - Intravenous Money Injection on Binance Smart Chain (BSC)",
+  "description": "DeFi is like a hurricane here at VaccineSwap. Tokens, Farming, Pool Rewards – it’s a duck blur.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
