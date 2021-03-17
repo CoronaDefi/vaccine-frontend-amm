@@ -78,7 +78,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Blog',
-        href: 'https://vaccineswap.medium.com',
+        href: 'https://coronadefi.medium.com/',
       },
     ],
   },
